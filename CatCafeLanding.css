@@ -12,9 +12,4 @@ p{
     color: #0A1045;
 }
 
-/*mobile CSS only*/
-@media only screen and (max-width: 481 px and ) {
-    body {
-      background-color: lightblue;
-    }
-  }
+
